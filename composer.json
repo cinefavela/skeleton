@@ -12,10 +12,18 @@
         {
             "type": "vcs",
             "url": "https://github.com/cinefavela/core"
-        }
+        },
+ 	{
+	    "type": "vcs",
+	    "url": "https://github.com/cinefavela/usuario"
+	},
+	{
+	    "type": "vcs",
+	    "url": "https://github.com/cinefavela/seguranca"
+	}
     ],
     "require": {
         "cinefavela/core": "dev-master",
-        "cinefavela/seguranca": "dev-master"
+	"cinefavela/seguranca": "dev-master"
     }
 }
