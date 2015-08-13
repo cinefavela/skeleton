@@ -23,7 +23,6 @@
 	}
     ],
     "require": {
-        "cinefavela/core": "dev-master",
-	"cinefavela/seguranca": "dev-master"
+        "cinefavela/core": "dev-master"
     }
 }
