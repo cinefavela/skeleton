@@ -1,5 +1,0 @@
-.couscous
-*.lock
-Makefile
-phpunit.xml
-vendor
